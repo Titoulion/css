@@ -1,10 +1,4 @@
-.Button-ctl.jaune>div
+.Button-ctl.invisible>div
 {
-	background-color:#FFFF00;
-
-border-color:#334455;
-	
-        border-radius:0px 100px 100px 100px;
-	border-width:5px;
-border-style: outset;
+	opacity:0;
 }
