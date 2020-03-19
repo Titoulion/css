@@ -1,7 +1,10 @@
-.Button-ctl.invisible
+.Button-ctl.invisible>div
 {
-	opacity:0;
-	border-color:#334455;
-	border-style: outset;
-	backgroung-color:#FFFFFF;
+	background-color:#FF00FF;
+
+border-color:#334455;
+	
+        border-radius:100px 0px 100px 100px;
+	border-width:5px;
+border-style: outset;
 }
