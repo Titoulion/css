@@ -1,4 +1,4 @@
-.Button-ctl.invisible>div
+.Button-ctl.invisible
 {
   opacity:0;
 }
