@@ -1,4 +1,7 @@
 .invisible
 {
 	opacity:0;
+	border-color:#334455;
+	border-style: outset;
+	backgroung-color:#FFFFFF;
 }
