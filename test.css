@@ -3,6 +3,11 @@
 	opacity:0;
 }
 
+.Button-ctl.invisible2>div
+{
+	opacity:0;
+}
+
 .invisible
 {
 	opacity:0;
