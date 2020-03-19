@@ -3,7 +3,7 @@
   opacity:0;
 }
 
-.seqHeader
+.Button-ctl.seqHeader>div
 {
  brackground-color:#e9dd00; 
   border-radius: 0px;
