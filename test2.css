@@ -3,7 +3,7 @@
   opacity:0;
 }
 
-.Button-ctl.seqHeader
+.Button-ctl.seqHeader>div
 {
  background-color:#e9dd00; 
   border-radius: 0px;
