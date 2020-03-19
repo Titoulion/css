@@ -9,28 +9,28 @@
   border-radius: 0px;
 }
 
-.texteGris>p
+.texteGris
 {
 background-color: #00000000;
   border-radius: 0px;
   border:none;
-  font-size: 8px;
+  font-size: 30px;
 }
 
-.texteRouge>p
+.texteRouge
 {
 background-color: #00000000;
   border-radius: 0px;
   border:none;
-  font-size: 8px;
+  font-size: 30px;
 }
 
-.texteBleu>p
+.texteBleu
 {
 background-color: #00000000;
   border-radius: 0px;
   border:none;
-  font-size: 8px;
+  font-size: 30px;
 }
 
 
