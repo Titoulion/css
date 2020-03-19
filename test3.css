@@ -1,0 +1,34 @@
+.invis
+{
+  opacity:0;
+}
+
+.Button-ctl.seqHeader>div
+{
+ background-color:#e9dd00; 
+  border-radius: 0px;
+}
+
+.texteGris
+{
+background-color: #00000000;
+  border-radius: 0px;
+  border:none;
+  font-size: 40px;
+}
+
+.texteRouge
+{
+background-color: #00000000;
+  border-radius: 0px;
+  border:none;
+  font-size: 40px;
+}
+
+.texteBleu
+{
+background-color: #00000000;
+  border-radius: 0px;
+  border:none;
+  font-size: 40px;
+}
