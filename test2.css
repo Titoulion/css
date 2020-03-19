@@ -11,8 +11,23 @@
 
 .texteGris
 {
-opacity:0;
+background-color: #00000000;
   border-radius: 0px;
+  border:none;
+}
+
+.texteRouge
+{
+background-color: #00000000;
+  border-radius: 0px;
+  border:none;
+}
+
+.texteBleu
+{
+background-color: #00000000;
+  border-radius: 0px;
+  border:none;
 }
 
 
