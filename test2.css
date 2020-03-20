@@ -9,6 +9,13 @@
   border-radius: 0px;
 }
 
+.Button-ctl.seqHeader
+{
+ background-color:#e9dd00; 
+  border-radius: 0px;
+  font-size:20px;
+}
+
 .texteGris
 {
 background-color: #00000000;
