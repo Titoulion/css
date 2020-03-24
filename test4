@@ -1,0 +1,19 @@
+.Button-ctl.seqSelect>div {
+	background: #E2DD72;
+	border-radius: 0;
+	border: none;
+}
+.Button-ctl.seqSelect.pressed>div {
+		background: #F6EA06;
+	border-radius: 0;
+	border: none;
+}
+
+.Button-ctl.seqSelect.active>div {
+		background: #F6EA06;
+	border-radius: 0;
+	border: none;
+}
+
+
+
