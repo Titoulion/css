@@ -58,6 +58,37 @@
 	font-style: italic;
 }
 
+.Button-ctl.boutonOrangeCheck>div 
+{
+	background-color: #E6A130;
+	border-radius: 12px;
+	border: none;
+	
+}
+
+.Button-ctl.boutonOrangeCheck.pressed>div 
+{
+	background-color: #ECCC96;
+	border-radius: 12px;
+	border: none;
+	
+}
+
+.Button-ctl.boutonOrangeCheck.active>div 
+{
+	content:"•";
+	background-color: #ECCC96;
+	border-radius: 12px;
+	border: none;
+}
+
+.Button-ctl.boutonOrange ctl-title.title-on-top { 
+	color: white;
+	text-align:center;
+	font-size:20px;
+	font-style: italic;
+}
+
 .Button-ctl.invisible>div
 {
 	opacity:0;
