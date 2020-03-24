@@ -27,6 +27,30 @@
 	border: none;
 }
 
+
+.Button-ctl.boutonOrange>div 
+{
+	background-color: #E6A130;
+	border-radius: 12px;
+	border: none;
+	
+}
+
+.Button-ctl.boutonOrange.pressed>div 
+{
+	background-color: #ECCC96;
+	border-radius: 12px;
+	border: none;
+	
+}
+
+.Button-ctl.seqSelect.active>div 
+{
+	background-color: #ECCC96;
+	border-radius: 0;
+	border: none;
+}
+
 .Button-ctl.invisible>div
 {
 	opacity:0;
