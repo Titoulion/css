@@ -83,12 +83,18 @@
 
 .Button-ctl.boutonOrangeCheck.active ctl-title.title-on-top::before 
 { 
+	text-align:center;
+	font-size:20px;
+	font-style: italic;
 	color: white;
 	content:"☑";
 }
 
 .Button-ctl.boutonOrangeCheck ctl-title.title-on-top::before 
 { 
+	text-align:center;
+	font-size:20px;
+	font-style: italic;
 	color: white;
 	content:"☐";
 }
