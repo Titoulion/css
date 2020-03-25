@@ -107,7 +107,17 @@
 	content:"☐";
 }
 
+.texteSpeech
+{
+	font-size:20px;
+	color: black;
+}
 
+.texteAction
+{
+	font-size:20px;
+	color: black;
+}
 
 
 .Button-ctl.invisible>div
