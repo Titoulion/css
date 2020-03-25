@@ -144,6 +144,14 @@
 	font-size:12px;
 }
 
+.tempsTotal
+{
+text-align: left;
+font: Regular 23px/31px Segoe UI;
+letter-spacing: 0;
+color: #9D9D9D;	
+}
+
 .titleTempsTotal
 {
 text-align: left;
