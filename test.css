@@ -81,13 +81,15 @@
 	border: none;
 }
 
-.Button-ctl.boutonOrangeCheck.active::before 
+.Button-ctl.boutonOrangeCheck.active ctl-title.title-on-top::before 
 { 
+	color: white;
 	content:"☑";
 }
 
-.Button-ctl.boutonOrangeCheck::before 
+.Button-ctl.boutonOrangeCheck ctl-title.title-on-top::before 
 { 
+	color: white;
 	content:"☐";
 }
 
