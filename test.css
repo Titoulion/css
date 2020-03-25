@@ -109,14 +109,18 @@
 
 .texteSpeech
 {
-	font-size:20px;
-	color: black;
+	font-size:17px;
+	color: #494948;
+	font-family: "Segoe UI";
 }
 
 .texteAction
 {
-	font-size:20px;
-	color: black;
+	font-size:17px;
+	color: #494948;
+	font-family: "Segoe UI";
+	font-weight: bold;
+	font-style: italic;
 }
 
 
