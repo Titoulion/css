@@ -110,19 +110,23 @@
 .texteSpeech
 {
 	text-align: left;
-font: Regular 17px/22px Segoe UI;
+font-family: Segoe UI;
 letter-spacing: 0;
 color: #494948;
 opacity: 1;
+	font-size:18px;
 }
 
 .texteAction
 {
 	text-align: left;
-font: Semibold Italic 18px/24px Segoe UI;
+font-family:  Segoe UI;
 letter-spacing: 0;
 color: #494948;
 opacity: 1;
+	font-weight:bold;
+	font-style:italic;
+	font-size:20px;
 }
 
 
